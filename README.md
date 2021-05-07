@@ -7,3 +7,5 @@ Custom payloads for TX Pro dongle
 2) Put it on SD card
 3) Plug your SX Pro to your console 
 4) Let it do its magic
+
+(I'm not responsible for any damage on your console)
